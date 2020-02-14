@@ -10,7 +10,7 @@
 ## Problem
 Prediction of the brain region of brain cells ("neurons") based on their physiological properties, using the Allen Institute Neuropixel Dataset.\
 Due to the distribution of the data samples, the problem is defined as a 2 group classification task (Visual Cortex vs Hippocampal Formation).\
-For Allen Institute Neuropixel Dataset webpage, visit https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html\
+For Allen Institute Neuropixel Dataset webpage, visit https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html \
 For further details, here is the link for the technical white paper: https://brainmapportal-live-4cc80a57cd6e400d854-f7fdcae.divio-media.net/filer_public/80/75/8075a100-ca64-429a-b39a-569121b612b2/neuropixels_visual_coding_-_white_paper_v10.pdf 
 
 ## Input Dataset
