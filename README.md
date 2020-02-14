@@ -56,6 +56,6 @@ Open the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the
 Tensorflow, scikit-learn, statsmodels,pandas,numpy, matplotlib, plotly, os, allensdk, hypopt
 
 ## Article Link
-For the article for this project, visit https://medium.com/@ulas.ciftcioglu/can-you-locate-a-brain-cell-by-listening-to-it-3f8877d6c104 \ 
+For the article for this project, visit https://medium.com/@ulas.ciftcioglu/can-you-locate-a-brain-cell-by-listening-to-it-3f8877d6c104  
 
 For inquiries, email ciftciog@usc.edu.
