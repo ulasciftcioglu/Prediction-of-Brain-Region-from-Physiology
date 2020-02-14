@@ -40,7 +40,7 @@ These files are downloaded using the commands in the Colab notebook, provided in
 	- Compute performace (accuracy, f1 score) based on test sets
 5. Display
 	- Plot of regression weigths to visualize the influence of predictors
-	- Comparison of prediction performance using 2 different dataset, based on 3 different models
+	- Comparison of prediction performance using 2 different datasets, based on 3 different models
 	- Save figures as image files
 
 For further details, see the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the src folder. For best display, open the file with Colab.
@@ -49,7 +49,7 @@ For further details, see the notebook file "Prediction_of_Brain_Region_from_Phys
 Open the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the src folder with Google Colab. Then run cells in the Google Colab environment.
 
 ## Outputs
-	- Text and table displays in each step of the step in the notebook (such as size of data, performance of models etc.)
+	- Text and table displays in steps of the notebook (such as size of data, preprocessing results, performance of models etc.)
 	- 2 figure files saved as image files (png format) to the "tmp" folder of Google Drive
 	
 ## Libraries Used
