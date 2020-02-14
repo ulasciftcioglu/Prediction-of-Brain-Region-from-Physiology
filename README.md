@@ -6,6 +6,8 @@
 3. [Approach](#approach)
 4. [Instructions](#instructions)
 5. [Outputs](#outputs)
+6. [Libraries Used](#libraries-used)
+7. [Article Link](#article-link)
 
 ## Problem
 Prediction of the brain region of brain cells ("neurons") based on their physiological properties, using the Allen Institute Neuropixel Dataset.\
@@ -20,7 +22,7 @@ Within Allen Institute Neuropixel Dataset, there are 2 datasets which include me
 - units.csv
 - channels.csv
 - brain_observatory_1.1_analysis_metrics.csv
-- functional_connectivity_analysis_metrics.csv
+- functional_connectivity_analysis_metrics.csv \
 These files are downloaded using the commands in the Colab notebook, provided in the "src" folder.
 
 
@@ -49,5 +51,11 @@ Open the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the
 ## Outputs
 	- Text and table displays in each step of the step in the notebook (such as size of data, performance of models etc.)
 	- 2 figure files saved as image files (png format) to the "tmp" folder of Google Drive
+	
+## Libraries Used
+Tensorflow, scikit-learn, statsmodels,pandas,numpy, matplotlib, plotly, os, allensdk, hypopt
+
+## Article Link
+For the article for this project, visit https://medium.com/@ulas.ciftcioglu/can-you-locate-a-brain-cell-by-listening-to-it-3f8877d6c104 \ 
 
 For inquiries, email ciftciog@usc.edu.
