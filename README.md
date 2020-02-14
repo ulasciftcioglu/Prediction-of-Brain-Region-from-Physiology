@@ -35,11 +35,11 @@ These files are downloaded using the commands in the Colab notebook, provided in
 	- Normalization
 	- Splitting into training, validation and test datasets
 4. Modelling
-	- Train 3 different models (Logistic Regression, Gradient Boosting, Deep Neural Networks) using 2 datasets
+	- Train 3 different models (Logistic Regression, Gradient Boosting, Deep Neural Networks) each for 2 datasets
 	- Perform hyperparater tuning using the validation set
 	- Compute performace (accuracy, f1 score) based on test sets
 5. Display
-	- Plot of regression weigths  product to analyze the predictors
+	- Plot of regression weigths to visualize the influence of predictors
 	- Comparison of prediction performance using 2 different dataset, based on 3 different models
 	- Save figures as image files
 
@@ -56,6 +56,6 @@ Open the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the
 Tensorflow, scikit-learn, statsmodels,pandas,numpy, matplotlib, plotly, os, allensdk, hypopt
 
 ## Article Link
-For the article for this project, visit https://medium.com/@ulas.ciftcioglu/can-you-locate-a-brain-cell-by-listening-to-it-3f8877d6c104  
+For the article related to this project, visit https://medium.com/@ulas.ciftcioglu/can-you-locate-a-brain-cell-by-listening-to-it-3f8877d6c104  
 
 For inquiries, email ciftciog@usc.edu.
