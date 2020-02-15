@@ -50,7 +50,7 @@ Open the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the
 
 ## Outputs
 	- Text and tabular displays in steps of the notebook (such as size of data, preprocessing results, performance of models etc.)
-	- 2 figure files saved as image files (png format) to the "tmp" folder of Google Drive
+	- 2 figure files saved as image files (png format) to the Google Colab directory
 	
 ## Libraries Used
 Tensorflow, scikit-learn, statsmodels,pandas,numpy, matplotlib, plotly, os, allensdk, hypopt
