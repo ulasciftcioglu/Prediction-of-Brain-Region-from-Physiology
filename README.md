@@ -49,7 +49,7 @@ For further details, see the notebook file "Prediction_of_Brain_Region_from_Phys
 Open the notebook file "Prediction_of_Brain_Region_from_Physiology.ipynb" in the src folder with Google Colab. Then run cells in the Google Colab environment.
 
 ## Outputs
-	- Text and table displays in steps of the notebook (such as size of data, preprocessing results, performance of models etc.)
+	- Text and tabular displays in steps of the notebook (such as size of data, preprocessing results, performance of models etc.)
 	- 2 figure files saved as image files (png format) to the "tmp" folder of Google Drive
 	
 ## Libraries Used
