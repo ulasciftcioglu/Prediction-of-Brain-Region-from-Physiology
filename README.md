@@ -60,6 +60,6 @@ Tensorflow, scikit-learn, statsmodels,pandas,numpy, matplotlib, plotly, os, alle
 For the article related to this project, visit https://medium.com/@ulas.ciftcioglu/can-you-locate-a-brain-cell-by-listening-to-it-3f8877d6c104  
 
 ## SQL Script
-To store the related dataset in a PostgreSQL database and query the necessary portion of the dataset for this project from the database, please see the sql file "SQL_Script_Prediction_of_Brain_Region_from_Physiology". See the comments on this file for further details.
+To store the related dataset in a PostgreSQL database and query the necessary portion of the dataset for this project from the database, please see the sql file "SQL_Script_Prediction_of_Brain_Region_from_Physiology.sql". See the comments on this file for further details.
 
 For inquiries, email ciftciog@usc.edu.
